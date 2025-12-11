@@ -1,0 +1,17 @@
+name: masquerade
+id: ari:cloud:compass:1a73cc93-3f19-48e3-aa74-691ac1041589:component/a618eb95-7b63-429f-a80b-5e89b63baf84/747164e9-4cf6-45d8-a428-ef8c584943ab
+description: Fake data generator for .net
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/Insignis-Cash-Solutions/masquerade
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+  - synced-with-jsm
+customFields: null
