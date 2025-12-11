@@ -1,2 +1,2 @@
 # masquerade
-Fake data generator for .net
+Fake data generator
